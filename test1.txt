@@ -1,10 +1,1 @@
- Volume in drive D is New Volume
- Volume Serial Number is 6804-5E95
-
- Directory of D:\best
-
-01/08/2022  09:50 AM    <DIR>          .
-01/08/2022  09:50 AM    <DIR>          ..
-01/08/2022  09:50 AM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)   2,162,327,552 bytes free
+change 1
